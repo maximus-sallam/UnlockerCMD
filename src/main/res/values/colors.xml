@@ -1,1 +1,5 @@
-
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="accent_color">#FF4081</color>
+    <!-- Add more color resources here as needed -->
+</resources>
