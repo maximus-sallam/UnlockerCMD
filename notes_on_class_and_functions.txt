@@ -1,0 +1,10 @@
+# Notes for reference
+
+https://www.androidos.net.cn/android/10.0.0_r6/raw/frameworks/base/services/core/java/com/android/server/oemlock/PersistentDataBlockLock.java
+https://git.aicp-rom.com/packages_apps_Settings.git/tree/src/com/android/settings/MasterClearConfirm.java?h=refs/changes/23/28423/1
+https://review.lineageos.org/c/LineageOS/android_frameworks_base/+/196022/1/services/devicepolicy/java/com/android/server/devicepolicy/DevicePolicyManagerService.java#64
+https://stackoverflow.com/questions/54187577/calling-a-method-from-a-system-service
+https://gerrit.pixelexperience.org/plugins/gitiles/frameworks_base/+/bdf67f63dc7c16b5b54580ca7be40cf45e18aef7/services/core/java/com/android/server/oemlock/PersistentDataBlockLock.java
+https://github.com/lulululbj/android_9.0.0_r45/blob/master/frameworks/base/services/core/java/com/android/server/PersistentDataBlockService.java
+https://android.googlesource.com/platform/frameworks/base/+/1c4d535d0806dbeb6d2fa5cea0373cbd9ab6d33b/core/java/android/service/persistentdata/PersistentDataBlockManager.java
+https://zuliangwang.github.io/2016/11/29/SystemService%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/
