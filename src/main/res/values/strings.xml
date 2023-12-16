@@ -1,404 +1,203 @@
 <resources>
-    <!-- 1 -->
     <string name="app_name">UnlockerCMD</string>
-    <!-- 2 -->
     <string name="prompt_enter_username">Enter your username:</string>
-    <!-- 3 -->
     <string name="prompt_enter_password">Enter your password:</string>
-    <!-- 4 -->
     <string name="button_unlock">Unlock</string>
-    <!-- 5 -->
     <string name="button_cancel">Cancel</string>
-    <!-- 6 -->
     <string name="error_invalid_input">Invalid input. Please check your username and password.</string>
-    <!-- 7 -->
     <string name="error_unlock_failed">Unlocking failed. Verify your credentials.</string>
-    <!-- 8 -->
     <string name="success_unlocked">Device unlocked!</string>
-    <!-- 9 -->
     <string name="additional_message">Additional message for guidance.</string>
-    <!-- 10 -->
     <string name="permission_camera">Camera permission required for this feature.</string>
-    <!-- 11 -->
     <string name="permission_location">Location permission required for this feature.</string>
-    <!-- 12 -->
     <string name="permission_storage">Storage permission required for this feature.</string>
-    <!-- 13 -->
     <string name="permission_microphone">Microphone permission required for this feature.</string>
-    <!-- 14 -->
     <string name="permission_contacts">Contacts permission required for this feature.</string>
-    <!-- 15 -->
     <string name="permission_sms">SMS permission required for this feature.</string>
-    <!-- 16 -->
     <string name="permission_call">Call permission required for this feature.</string>
-    <!-- 17 -->
     <string name="permission_calendar">Calendar permission required for this feature.</string>
-    <!-- 18 -->
     <string name="permission_camera_rationale">We need the camera permission to take photos and videos.</string>
-    <!-- 19 -->
     <string name="permission_location_rationale">We require the location permission to provide location-based services.</string>
-    <!-- 20 -->
     <string name="permission_storage_rationale">The storage permission is necessary to access files on your device.</string>
-    <!-- 21 -->
     <string name="permission_microphone_rationale">Microphone access is needed for audio recording and calls.</string>
-    <!-- 22 -->
     <string name="permission_contacts_rationale">Contacts access is necessary to sync with your contacts.</string>
-    <!-- 23 -->
     <string name="permission_sms_rationale">SMS access is required for sending and receiving text messages.</string>
-    <!-- 24 -->
     <string name="permission_call_rationale">Call permission is needed for making and receiving phone calls.</string>
-    <!-- 25 -->
     <string name="permission_calendar_rationale">Calendar access is required for scheduling and events.</string>
-    <!-- 26 -->
     <string name="action_settings">Settings</string>
-    <!-- 27 -->
     <string name="action_exit">Exit</string>
-    <!-- 28 -->
     <string name="message_welcome">Welcome to UnlockerCMD!</string>
-    <!-- 29 -->
     <string name="message_instructions">Please enter your credentials to unlock the device.</string>
-    <!-- 30 -->
     <string name="message_contact_support">For support, contact us at support@example.com</string>
-    <!-- 31 -->
     <string name="message_terms">By using this app, you agree to our Terms of Service.</string>
-    <!-- 32 -->
     <string name="message_privacy">Read our Privacy Policy for information on data usage.</string>
-    <!-- 33 -->
     <string name="message_loading">Loading...</string>
-    <!-- 34 -->
     <string name="message_no_internet">No internet connection. Please check your network settings.</string>
-    <!-- 35 -->
     <string name="message_retry">Retry</string>
-    <!-- 36 -->
     <string name="message_error">An error occurred. Please try again later.</string>
-    <!-- 37 -->
     <string name="message_confirmation">Are you sure you want to proceed?</string>
-    <!-- 38 -->
     <string name="message_yes">Yes</string>
-    <!-- 39 -->
     <string name="message_no">No</string>
-    <!-- 40 -->
     <string name="message_send_feedback">Send Feedback</string>
-    <!-- 41 -->
     <string name="message_rate_app">Rate this App</string>
-    <!-- 42 -->
     <string name="message_share_app">Share this App</string>
-    <!-- 43 -->
     <string name="message_app_version">App Version</string>
-    <!-- 44 -->
     <string name="message_app_description">UnlockerCMD is a command-line tool for device unlocking.</string>
-    <!-- 45 -->
     <string name="message_app_author">Author: Max</string>
-    <!-- 46 -->
     <string name="message_app_website">Visit our website: www.unlockercmd.com</string>
-    <!-- 47 -->
     <string name="message_app_contact">Contact us at: info@unlockercmd.com</string>
-    <!-- 48 -->
     <string name="message_app_license">Licensed under the Apache License 2.0</string>
-    <!-- 49 -->
     <string name="message_app_release_notes">Release Notes</string>
-    <!-- 50 -->
     <string name="message_app_feedback">Your feedback is important to us. Please let us know how we can improve.</string>
-    <!-- Add more strings here -->
-    <!-- 51 -->
     <string name="message_app_bug_report">Report a Bug</string>
-    <!-- 52 -->
     <string name="message_app_feedback_email">Send feedback to: feedback@unlockercmd.com</string>
-    <!-- 53 -->
     <string name="message_app_help">Need help? Contact our support team.</string>
-    <!-- 54 -->
     <string name="message_app_support_email">Support: support@unlockercmd.com</string>
-    <!-- 55 -->
     <string name="message_app_community">Join our community for discussions and updates.</string>
-    <!-- 56 -->
     <string name="message_app_community_link">Community Forum</string>
-    <!-- 57 -->
     <string name="message_app_follow_us">Follow us on social media for the latest news.</string>
-    <!-- 58 -->
     <string name="message_app_facebook">Facebook</string>
-    <!-- 59 -->
     <string name="message_app_twitter">Twitter</string>
-    <!-- 60 -->
     <string name="message_app_instagram">Instagram</string>
-    <!-- 61 -->
     <string name="message_app_linkedIn">LinkedIn</string>
-    <!-- 62 -->
     <string name="message_app_youtube">YouTube</string>
-    <!-- 63 -->
     <string name="message_app_snapchat">Snapchat</string>
-    <!-- 64 -->
     <string name="message_app_pinterest">Pinterest</string>
-    <!-- 65 -->
     <string name="message_app_tiktok">TikTok</string>
-    <!-- 66 -->
     <string name="message_app_snapchat">Snapchat</string>
-    <!-- 67 -->
     <string name="message_app_pinterest">Pinterest</string>
-    <!-- 68 -->
     <string name="message_app_tiktok">TikTok</string>
-    <!-- 69 -->
     <string name="message_app_share_app">Share this app with your friends!</string>
-    <!-- 70 -->
     <string name="message_app_find_us">Find us at these locations:</string>
-    <!-- 71 -->
     <string name="message_app_location_1">123 Main Street, City, Country</string>
-    <!-- 72 -->
     <string name="message_app_location_2">456 Park Avenue, Town, Country</string>
-    <!-- 73 -->
     <string name="message_app_location_3">789 Beach Road, Seaside, Country</string>
-    <!-- 74 -->
     <string name="message_app_location_4">101 Forest Lane, Woods, Country</string>
-    <!-- 75 -->
     <string name="message_app_location_5">246 Mountain View, Hills, Country</string>
-    <!-- 76 -->
     <string name="message_app_location_6">369 Lakefront, Lakeside, Country</string>
-    <!-- 77 -->
     <string name="message_app_location_7">808 Desert Sands, Oasis, Country</string>
-    <!-- 78 -->
     <string name="message_app_location_8">555 Riverbank, Riverside, Country</string>
-    <!-- 79 -->
     <string name="message_app_location_9">777 Skyline Drive, Heights, Country</string>
-    <!-- 80 -->
     <string name="message_app_location_10">888 Valley Road, Valley, Country</string>
-    <!-- 81 -->
     <string name="message_app_donate">Support our work by making a donation.</string>
-    <!-- 82 -->
     <string name="message_app_donate_button">Donate Now</string>
-    <!-- 83 -->
     <string name="message_app_thank_you_donation">Thank you for your generous donation!</string>
-    <!-- 84 -->
     <string name="message_app_no_donation">No donation at this time.</string>
-    <!-- 85 -->
     <string name="message_app_payment">Payment Options</string>
-    <!-- 86 -->
     <string name="message_app_credit_card">Credit Card</string>
-    <!-- 87 -->
     <string name="message_app_paypal">PayPal</string>
-    <!-- 88 -->
     <string name="message_app_google_pay">Google Pay</string>
-    <!-- 89 -->
     <string name="message_app_apple_pay">Apple Pay</string>
-    <!-- 90 -->
     <string name="message_app_bank_transfer">Bank Transfer</string>
-    <!-- 91 -->
     <string name="message_app_terms_conditions">Read and accept our Terms and Conditions.</string>
-    <!-- 92 -->
     <string name="message_app_terms_link">Terms & Conditions</string>
-    <!-- 93 -->
     <string name="message_app_privacy_policy">Review our Privacy Policy for data protection.</string>
-    <!-- 94 -->
     <string name="message_app_privacy_link">Privacy Policy</string>
-    <!-- 95 -->
     <string name="message_app_cookie_policy">Learn about our Cookie Policy.</string>
-    <!-- 96 -->
     <string name="message_app_cookie_link">Cookie Policy</string>
-    <!-- 97 -->
     <string name="message_app_accessibility">Accessibility</string>
-    <!-- 98 -->
     <string name="message_app_accessibility_info">Information on app accessibility features.</string>
-    <!-- 99 -->
     <string name="message_app_accessibility_link">Accessibility Features</string>
-    <!-- 100 -->
     <string name="message_app_language">Language</string>
-    <!-- 101 -->
     <string name="message_app_language_info">Select your preferred language.</string>
-    <!-- 102 -->
     <string name="message_app_language_link">Language Preferences</string>
-    <!-- 103 -->
     <string name="message_app_version_update">A new version of the app is available. Update now for the latest features and improvements.</string>
-    <!-- 104 -->
     <string name="message_app_update_now">Update Now</string>
-    <!-- 105 -->
     <string name="message_app_landing_page">Welcome to UnlockerCMD</string>
-    <!-- 106 -->
     <string name="message_app_login">Login</string>
-    <!-- 107 -->
     <string name="message_app_register">Register</string>
-    <!-- 108 -->
     <string name="message_app_forgot_password">Forgot Password?</string>
-    <!-- 109 -->
     <string name="message_app_username">Username</string>
-    <!-- 110 -->
     <string name="message_app_password">Password</string>
-    <!-- 111 -->
     <string name="message_app_confirm_password">Confirm Password</string>
-    <!-- 112 -->
     <string name="message_app_email">Email</string>
-    <!-- 113 -->
     <string name="message_app_phone">Phone Number</string>
-    <!-- 114 -->
     <string name="message_app_date_of_birth">Date of Birth</string>
-    <!-- 115 -->
     <string name="message_app_gender">Gender</string>
-    <!-- 116 -->
     <string name="message_app_male">Male</string>
-    <!-- 117 -->
     <string name="message_app_female">Female</string>
-    <!-- 118 -->
     <string name="message_app_other">Other</string>
-    <!-- 119 -->
     <string name="message_app_submit">Submit</string>
-    <!-- 120 -->
     <string name="message_app_back">Back</string>
-    <!-- 121 -->
     <string name="message_app_next">Next</string>
-    <!-- 122 -->
     <string name="message_app_skip">Skip</string>
-    <!-- 123 -->
     <string name="message_app_done">Done</string>
-    <!-- 124 -->
     <string name="message_app_settings">Settings</string>
-    <!-- 125 -->
     <string name="message_app_notifications">Notifications</string>
-    <!-- 126 -->
     <string name="message_app_sound">Sound</string>
-    <!-- 127 -->
     <string name="message_app_vibration">Vibration</string>
-    <!-- 128 -->
     <string name="message_app_language">Language</string>
-    <!-- 129 -->
     <string name="message_app_theme">Theme</string>
-    <!-- 130 -->
     <string name="message_app_light_mode">Light Mode</string>
-    <!-- 131 -->
     <string name="message_app_dark_mode">Dark Mode</string>
-    <!-- 132 -->
     <string name="message_app_system_default">System Default</string>
-    <!-- 133 -->
     <string name="message_app_account">Account</string>
-    <!-- 134 -->
     <string name="message_app_personal_info">Personal Information</string>
-    <!-- 135 -->
     <string name="message_app_security">Security</string>
-    <!-- 136 -->
     <string name="message_app_privacy">Privacy</string>
-    <!-- 137 -->
     <string name="message_app_logout">Logout</string>
-    <!-- 138 -->
     <string name="message_app_confirm_logout">Are you sure you want to log out?</string>
-    <!-- 139 -->
     <string name="message_app_yes">Yes</string>
-    <!-- 140 -->
     <string name="message_app_no">No</string>
-    <!-- 141 -->
     <string name="message_app_favorites">Favorites</string>
-    <!-- 142 -->
     <string name="message_app_recent">Recent</string>
-    <!-- 143 -->
     <string name="message_app_search">Search</string>
-    <!-- 144 -->
     <string name="message_app_results">Search Results</string>
-    <!-- 145 -->
     <string name="message_app_no_results">No results found.</string>
-    <!-- 146 -->
     <string name="message_app_try_again">Try again</string>
-    <!-- 147 -->
     <string name="message_app_connect">Connect</string>
-    <!-- 148 -->
     <string name="message_app_disconnect">Disconnect</string>
-    <!-- 149 -->
     <string name="message_app_connected">Connected</string>
-    <!-- 150 -->
     <string name="message_app_disconnected">Disconnected</string>
-    <!-- 151 -->
     <string name="message_app_loading">Loading...</string>
-    <!-- 152 -->
     <string name="message_app_refresh">Refresh</string>
-    <!-- 153 -->
     <string name="message_app_share">Share</string>
-    <!-- 154 -->
     <string name="message_app_send">Send</string>
-    <!-- 155 -->
     <string name="message_app_receive">Receive</string>
-    <!-- 156 -->
     <string name="message_app_delete">Delete</string>
-    <!-- 157 -->
     <string name="message_app_cancel">Cancel</string>
-    <!-- 158 -->
     <string name="message_app_ok">OK</string>
-    <!-- 159 -->
     <string name="message_app_information">Information</string>
-    <!-- 160 -->
     <string name="message_app_warning">Warning</string>
-    <!-- 161 -->
     <string name="message_app_error">Error</string>
-    <!-- 162 -->
     <string name="message_app_success">Success</string>
-    <!-- 163 -->
     <string name="message_app_continue">Continue</string>
-    <!-- 164 -->
     <string name="message_app_accept">Accept</string>
-    <!-- 165 -->
     <string name="message_app_decline">Decline</string>
-    <!-- 166 -->
     <string name="message_app_yes">Yes</string>
-    <!-- 167 -->
     <string name="message_app_no">No</string>
-    <!-- 168 -->
     <string name="message_app_back">Back</string>
-    <!-- 169 -->
     <string name="message_app_retry">Retry</string>
-    <!-- 170 -->
     <string name="message_app_loading">Loading...</string>
-    <!-- 171 -->
     <string name="message_app_no_internet">No internet connection. Please check your network settings.</string>
-    <!-- 172 -->
     <string name="message_app_server_error">Server error. Please try again later.</string>
-    <!-- 173 -->
     <string name="message_app_timeout">Request timed out. Please try again.</string>
-    <!-- 174 -->
     <string name="message_app_unknown_error">An unknown error occurred. Please contact support.</string>
-    <!-- 175 -->
     <string name="message_app_confirmation">Confirmation</string>
-    <!-- 176 -->
     <string name="message_app_confirmation_required">Confirmation Required</string>
-    <!-- 177 -->
     <string name="message_app_yes">Yes</string>
-    <!-- 178 -->
     <string name="message_app_no">No</string>
-    <!-- 179 -->
     <string name="message_app_loading">Loading...</string>
-    <!-- 180 -->
     <string name="message_app_sending">Sending...</string>
-    <!-- 181 -->
     <string name="message_app_receiving">Receiving...</string>
-    <!-- 182 -->
     <string name="message_app_deleting">Deleting...</string>
-    <!-- 183 -->
     <string name="message_app_canceling">Canceling...</string>
-    <!-- 184 -->
     <string name="message_app_success">Success!</string>
-    <!-- 185 -->
     <string name="message_app_failure">Failure</string>
-    <!-- 186 -->
     <string name="message_app_retry">Retry</string>
-    <!-- 187 -->
     <string name="message_app_try_again">Try Again</string>
-    <!-- 188 -->
     <string name="message_app_lets_go">Let's Go!</string>
-    <!-- 189 -->
     <string name="message_app_congratulations">Congratulations!</string>
-    <!-- 190 -->
     <string name="message_app_send_feedback">Send Feedback</string>
-    <!-- 191 -->
     <string name="message_app_report_bug">Report a Bug</string>
-    <!-- 192 -->
     <string name="message_app_bug_report_email">Send bug reports to: bugs@unlockercmd.com</string>
-    <!-- 193 -->
     <string name="message_app_bug_report_thank_you">Thank you for helping us improve the app.</string>
-    <!-- 194 -->
     <string name="message_app_bug_report_success">Bug report sent successfully.</string>
-    <!-- 195 -->
     <string name="message_app_bug_report_failure">Failed to send bug report. Please try again later.</string>
-    <!-- 196 -->
     <string name="message_app_bug_report_details">Please provide detailed information about the issue you encountered.</string>
-    <!-- 197 -->
     <string name="message_app_bug_report_screenshot">You can attach a screenshot to help us understand the problem.</string>
-    <!-- 198 -->
     <string name="message_app_bug_report_optional">Bug reporting is optional, but we appreciate your help.</string>
-    <!-- 199 -->
     <string name="message_app_bug_report_disclaimer">Disclaimer: Bug reports may include diagnostic data to assist in troubleshooting.</string>
-    <!-- 200 -->
     <string name="message_app_bug_report_privacy">Privacy: Your personal information is protected in accordance with our Privacy Policy.</string>
 </resources>
 
