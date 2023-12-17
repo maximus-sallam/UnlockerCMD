@@ -1,9 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.example.namespace'
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.example.mycommandlineapp"
+        applicationId "com.maximus.UnlockerCMD"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
