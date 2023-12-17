@@ -139,8 +139,13 @@
     <application
         android:debuggable="true"
         android:extractNativeLibs="true" >
+        <activity android:name="com.example.namespace.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-        <!-- Your application activities and other components go here -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

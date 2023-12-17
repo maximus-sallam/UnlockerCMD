@@ -391,11 +391,23 @@
 137-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:128:22-71
 138
 139    <application
-139-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-132:19
+139-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-137:19
 140        android:debuggable="true"
 141        android:extractNativeLibs="true" >
-142
-143        <!-- Your application activities and other components go here -->
-144    </application>
+142        <activity android:name="com.example.namespace.MainActivity" >
+142-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:9-136:20
+142-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:19-47
+143            <intent-filter>
+143-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:132:13-135:29
+144                <action android:name="android.intent.action.MAIN" />
+144-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:17-69
+144-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:25-66
 145
-146</manifest>
+146                <category android:name="android.intent.category.LAUNCHER" />
+146-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:17-77
+146-->/Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:27-74
+147            </intent-filter>
+148        </activity>
+149    </application>
+150
+151</manifest>

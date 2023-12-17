@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-134:12
-INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-134:12
-INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-134:12
-INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-134:12
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
 	package
 		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -521,10 +521,24 @@ ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifes
 	android:name
 		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:128:22-71
 application
-ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-132:19
-INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-132:19
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-137:19
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-137:19
 	android:extractNativeLibs
 		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+activity#com.example.namespace.MainActivity
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:9-136:20
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:132:13-135:29
+action#android.intent.action.MAIN
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:17-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:27-74
 uses-sdk
 INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
