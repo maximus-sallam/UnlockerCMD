@@ -1,0 +1,7 @@
+com.maximus.UnlockerCMD.app-pngs-0 /Users/maximus/StudioProjects/UnlockerCMD/app/build/generated/res/pngs/debug
+com.maximus.UnlockerCMD.app-resValues-1 /Users/maximus/StudioProjects/UnlockerCMD/app/build/generated/res/resValues/debug
+com.maximus.UnlockerCMD.app-packageDebugResources-2 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.maximus.UnlockerCMD.app-packageDebugResources-3 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.maximus.UnlockerCMD.app-merged_res-4 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/merged_res/debug
+com.maximus.UnlockerCMD.app-debug-5 /Users/maximus/StudioProjects/UnlockerCMD/app/src/debug/res
+com.maximus.UnlockerCMD.app-main-6 /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/res

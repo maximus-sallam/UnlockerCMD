@@ -1,0 +1,4 @@
+#Sun Dec 17 09:17:18 CST 2023
+base.0=/Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

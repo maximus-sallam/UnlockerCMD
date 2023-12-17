@@ -1,0 +1,4 @@
+com.maximus.UnlockerCMD.test.app-androidTest-0 /Users/maximus/StudioProjects/UnlockerCMD/app/build/generated/res/resValues/androidTest/debug
+com.maximus.UnlockerCMD.test.app-mergeDebugAndroidTestResources-1 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.maximus.UnlockerCMD.test.app-mergeDebugAndroidTestResources-2 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.maximus.UnlockerCMD.test.app-merged_res-3 /Users/maximus/StudioProjects/UnlockerCMD/app/build/intermediates/merged_res/debugAndroidTest

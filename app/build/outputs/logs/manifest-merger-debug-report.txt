@@ -1,0 +1,549 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:1-139:12
+	package
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_CHECKIN_PROPERTIES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:2:5-83
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:2:22-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:3:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:5:5-88
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:5:22-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:7:22-82
+uses-permission#android.permission.ACCESS_PDB_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCOUNT_MANAGER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.BROADCAST_PACKAGE_REMOVED
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:14:22-81
+uses-permission#android.permission.BROADCAST_SMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:15:22-69
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.BROADCAST_WAP_PUSH
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:18:22-66
+uses-permission#android.permission.CALL_PRIVILEGED
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:19:22-71
+uses-permission#android.permission.CAMERA
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.CAPTURE_SECURE_VIDEO_OUTPUT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:22:5-85
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:22:22-83
+uses-permission#android.permission.CAPTURE_VIDEO_OUTPUT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.CHANGE_COMPONENT_ENABLED_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:24:5-88
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:24:22-86
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:27:22-83
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:28:22-73
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:29:22-71
+uses-permission#android.permission.CONTROL_LOCATION_UPDATES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:30:5-82
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:30:22-80
+uses-permission#android.permission.DELETE_CACHE_FILES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:31:22-74
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:32:22-71
+uses-permission#android.permission.DIAGNOSTIC
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:33:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:34:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:34:22-72
+uses-permission#android.permission.DUMP
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:35:5-62
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:35:22-60
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:36:22-73
+uses-permission#android.permission.FACTORY_TEST
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:37:5-70
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:37:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:38:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:38:22-74
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:39:5-70
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:39:22-68
+uses-permission#android.permission.GET_ACCOUNTS_PRIVILEGED
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:40:22-79
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:41:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:42:5-67
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:42:22-65
+uses-permission#android.permission.GLOBAL_SEARCH
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:43:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:43:22-69
+uses-permission#android.permission.INSTALL_LOCATION_PROVIDER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:44:22-81
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:45:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:45:22-72
+uses-permission#android.permission.INSTALL_SHORTCUT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:46:22-72
+uses-permission#android.permission.INSTANT_APP_FOREGROUND_SERVICE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:47:5-88
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:47:22-86
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:48:5-85
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:48:22-82
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:49:5-66
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:49:22-64
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:50:5-83
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:50:22-81
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:51:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:51:22-73
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:52:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:52:22-72
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:53:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:53:22-72
+uses-permission#android.permission.MASTER_CLEAR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:54:5-70
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:54:22-68
+uses-permission#android.permission.MANAGE_CARRIER_OEM_UNLOCK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:55:5-89
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:55:22-87
+uses-permission#android.permission.MANAGE_USER_OEM_UNLOCK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:56:5-86
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:56:22-84
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:57:5-79
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:57:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:58:5-79
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:58:22-77
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:59:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:59:22-74
+uses-permission#android.permission.MOUNT_FORMAT_FILESYSTEMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:60:5-82
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:60:22-80
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:61:5-83
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:61:22-81
+uses-permission#android.permission.NFC
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:62:5-61
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:62:22-59
+uses-permission#android.permission.OEM_UNLOCK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:63:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:63:22-72
+uses-permission#android.permission.ORDER_ACCOUNTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:64:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:64:22-70
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:65:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:65:22-75
+uses-permission#android.permission.PERSISTENT_ACTIVITY
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:66:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:66:22-75
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:67:5-80
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:67:22-78
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:68:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:68:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:69:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:69:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:70:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:70:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:71:5-79
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:71:22-77
+uses-permission#android.permission.READ_FRAME_BUFFER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:72:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:72:22-73
+uses-permission#android.permission.READ_INPUT_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:73:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:73:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:74:5-67
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:74:22-65
+uses-permission#android.permission.READ_OEM_UNLOCK_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:75:5-79
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:75:22-77
+uses-permission#android.permission.READ_PHONE_NUMBERS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:76:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:76:22-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:77:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:77:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:78:5-66
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:78:22-64
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:79:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:79:22-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:80:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:80:22-71
+uses-permission#android.permission.READ_VOICEMAIL
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:81:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:81:22-70
+uses-permission#android.permission.REBOOT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:82:5-64
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:82:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:83:5-80
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:83:22-78
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:84:5-69
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:84:22-67
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:85:5-69
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:85:22-67
+uses-permission#android.permission.RECEIVE_WAP_PUSH
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:86:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:86:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:87:5-70
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:87:22-68
+uses-permission#android.permission.REORDER_TASKS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:88:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:88:22-69
+uses-permission#android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:89:5-93
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:89:22-91
+uses-permission#android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:90:5-98
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:90:22-96
+uses-permission#android.permission.REQUEST_DELETE_PACKAGES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:91:5-81
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:91:22-79
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:92:5-94
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:92:22-92
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:93:5-82
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:93:22-80
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:94:5-74
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:94:22-72
+uses-permission#android.permission.SEND_RESPOND_VIA_MESSAGE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:95:5-82
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:95:22-80
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:96:5-66
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:96:22-64
+uses-permission#android.permission.SET_ALARM
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:97:5-67
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:97:22-65
+uses-permission#android.permission.SET_ALWAYS_FINISH
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:98:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:98:22-73
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:99:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:99:22-75
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:100:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:100:22-69
+uses-permission#android.permission.SET_PREFERRED_APPLICATIONS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:101:5-84
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:101:22-82
+uses-permission#android.permission.SET_PROCESS_LIMIT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:102:5-75
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:102:22-73
+uses-permission#android.permission.SET_TIME
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:103:5-66
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:103:22-64
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:104:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:104:22-69
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:105:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:105:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:106:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:106:22-75
+uses-permission#android.permission.SIGNAL_PERSISTENT_PROCESSES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:107:5-85
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:107:22-83
+uses-permission#android.permission.STATUS_BAR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:108:5-68
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:108:22-66
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:109:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:109:22-75
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:110:5-69
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:110:22-67
+uses-permission#android.permission.UNINSTALL_SHORTCUT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:111:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:111:22-74
+uses-permission#android.permission.UPDATE_DEVICE_STATS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:112:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:112:22-75
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:113:5-71
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:113:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:114:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:114:22-71
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:115:5-80
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:115:22-78
+uses-permission#android.permission.USE_SIP
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:116:5-65
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:116:22-63
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:117:5-65
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:117:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:118:5-67
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:118:22-65
+uses-permission#android.permission.WRITE_APN_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:119:5-76
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:119:22-74
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:120:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:120:22-70
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:121:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:121:22-70
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:122:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:122:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:123:5-80
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:123:22-78
+uses-permission#android.permission.WRITE_GSERVICES
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:124:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:124:22-71
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:125:5-79
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:125:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:126:5-72
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:126:22-70
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:127:5-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:127:22-75
+uses-permission#android.permission.WRITE_VOICEMAIL
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:128:5-73
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:128:22-71
+application
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-137:19
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:130:5-137:19
+	android:extractNativeLibs
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+activity#com.maximus.UnlockerCMD.MainActivity
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:9-136:20
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:131:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:132:13-135:29
+action#android.intent.action.MAIN
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:133:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:17-77
+	android:name
+		ADDED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml:134:27-74
+uses-sdk
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maximus/StudioProjects/UnlockerCMD/app/src/main/AndroidManifest.xml
