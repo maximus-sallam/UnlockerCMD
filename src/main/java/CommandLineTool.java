@@ -1,43 +1,53 @@
 package com.example.commandlinetool;
 
-import android.service.persistentdata.PersistentDataBlockManager;
 import android.content.Context;
 import android.os.ServiceManager;
+import android.service.persistentdata.IPersistentDataBlockService;
+import android.service.persistentdata.PersistentDataBlockManager;
+import android.service.oemlock.IOemLockService;
+import android.service.oemlock.OemLockManager;
 
 public class CommandLineTool {
 
     public static void main(String[] args) {
-        // Get the PersistentDataBlockManager service
-        IPersistentDataBlockService service = IPersistentDataBlockService.Stub.asInterface(
-                ServiceManager.getService(Context.PERSISTENT_DATA_BLOCK_SERVICE));
-        PersistentDataBlockManager pdbm = new PersistentDataBlockManager(service);
-
         try {
-            // Check for arguments and perform operations based on them
+            // PersistentDataBlockManager setup
+            IPersistentDataBlockService pdbService = IPersistentDataBlockService.Stub.asInterface(
+                    ServiceManager.getService(Context.PERSISTENT_DATA_BLOCK_SERVICE));
+            PersistentDataBlockManager pdbm = new PersistentDataBlockManager(pdbService);
+
+            // OemLockManager setup
+            IOemLockService oemService = IOemLockService.Stub.asInterface(
+                    ServiceManager.getService(Context.OEM_LOCK_SERVICE));
+            OemLockManager oemLockManager = new OemLockManager(oemService);
+
             if (args.length > 0) {
                 switch (args[0]) {
-                    case "read":
+                    case "readPDB":
                         byte[] data = pdbm.read();
                         System.out.println("Data Read: " + new String(data));
                         break;
-                    case "write":
-                        if (args.length < 2) {
-                            System.out.println("No data provided to write");
-                            break;
-                        }
-                        String writeData = args[1];
-                        pdbm.write(writeData.getBytes());
+                    case "writePDB":
+                        pdbm.write("Test Data".getBytes());
                         System.out.println("Data Written");
                         break;
-                    case "wipe":
+                    case "wipePDB":
                         pdbm.wipe();
                         System.out.println("Data wiped");
                         break;
-                    case "getOemUnlockEnabled":
-                        boolean isEnabled = pdbm.getOemUnlockEnabled();
-                        System.out.println("OEM Unlock Enabled: " + isEnabled);
+                    case "enableOEMUnlock":
+                        pdbm.setOemUnlockEnabled(true);
+                        System.out.println("OEM Unlock Enabled");
                         break;
-                    // Add more cases as needed
+                    case "setCarrierUnlock":
+                        oemLockManager.setOemUnlockAllowedByCarrier(true, null);
+                        System.out.println("Carrier Unlock Set");
+                        break;
+                    case "setUserUnlock":
+                        oemLockManager.setOemUnlockAllowedByUser(true);
+                        System.out.println("User Unlock Set");
+                        break;
+                    // Additional cases as needed
                     default:
                         System.out.println("Invalid command");
                 }
