@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'com.example.namespace'
+    namespace 'com.maximus.UnlockerCMD'
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.maximus.UnlockerCMD"
