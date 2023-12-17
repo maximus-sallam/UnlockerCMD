@@ -1,0 +1,2 @@
+rootProject.name = "UnlockerCMD"
+include ':app'
